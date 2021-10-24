@@ -1,0 +1,1005 @@
+Filled container.
+Container contains 1000 elements.
+0: It is Parallelepiped: length = 8, width = 4, height = 5. SurfaceArea = 160.000000
+1: It is Parallelepiped: length = 5, width = 13, height = 1. SurfaceArea = 65.000000
+2: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+3: It is Parallelepiped: length = 6, width = 12, height = 4. SurfaceArea = 288.000000
+4: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+5: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+6: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+7: It is Sphere: radius = 5. SurfaceArea = 314.158997
+8: It is Parallelepiped: length = 4, width = 7, height = 5. SurfaceArea = 140.000000
+9: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+10: It is Parallelepiped: length = 6, width = 1, height = 1. SurfaceArea = 6.000000
+11: It is Parallelepiped: length = 9, width = 11, height = 5. SurfaceArea = 495.000000
+12: It is Parallelepiped: length = 10, width = 6, height = 1. SurfaceArea = 60.000000
+13: It is Parallelepiped: length = 2, width = 6, height = 4. SurfaceArea = 48.000000
+14: It is Sphere: radius = 5. SurfaceArea = 314.158997
+15: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+16: It is Parallelepiped: length = 9, width = 3, height = 3. SurfaceArea = 81.000000
+17: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+18: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+19: It is Parallelepiped: length = 2, width = 9, height = 5. SurfaceArea = 90.000000
+20: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+21: It is Parallelepiped: length = 3, width = 3, height = 5. SurfaceArea = 45.000000
+22: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+23: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+24: It is Parallelepiped: length = 6, width = 5, height = 4. SurfaceArea = 120.000000
+25: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+26: It is Sphere: radius = 2. SurfaceArea = 50.265442
+27: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+28: It is Sphere: radius = 4. SurfaceArea = 201.061768
+29: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+30: It is Sphere: radius = 1. SurfaceArea = 12.566360
+31: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+32: It is Parallelepiped: length = 9, width = 6, height = 4. SurfaceArea = 216.000000
+33: It is Parallelepiped: length = 4, width = 13, height = 5. SurfaceArea = 260.000000
+34: It is Parallelepiped: length = 3, width = 11, height = 6. SurfaceArea = 198.000000
+35: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+36: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+37: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+38: It is Sphere: radius = 7. SurfaceArea = 615.751648
+39: It is Parallelepiped: length = 7, width = 4, height = 6. SurfaceArea = 168.000000
+40: It is Parallelepiped: length = 3, width = 5, height = 4. SurfaceArea = 60.000000
+41: It is Parallelepiped: length = 4, width = 2, height = 1. SurfaceArea = 8.000000
+42: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+43: It is Parallelepiped: length = 7, width = 9, height = 6. SurfaceArea = 378.000000
+44: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+45: It is Parallelepiped: length = 3, width = 12, height = 5. SurfaceArea = 180.000000
+46: It is Sphere: radius = 5. SurfaceArea = 314.158997
+47: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+48: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+49: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+50: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+51: It is Sphere: radius = 4. SurfaceArea = 201.061768
+52: It is Parallelepiped: length = 10, width = 9, height = 3. SurfaceArea = 270.000000
+53: It is Parallelepiped: length = 9, width = 1, height = 5. SurfaceArea = 45.000000
+54: It is Parallelepiped: length = 1, width = 8, height = 3. SurfaceArea = 24.000000
+55: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+56: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+57: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+58: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+59: It is Parallelepiped: length = 4, width = 10, height = 4. SurfaceArea = 160.000000
+60: It is Parallelepiped: length = 1, width = 9, height = 3. SurfaceArea = 27.000000
+61: It is Parallelepiped: length = 1, width = 8, height = 4. SurfaceArea = 32.000000
+62: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+63: It is Sphere: radius = 5. SurfaceArea = 314.158997
+64: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+65: It is Parallelepiped: length = 10, width = 3, height = 3. SurfaceArea = 90.000000
+66: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+67: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+68: It is Parallelepiped: length = 4, width = 1, height = 2. SurfaceArea = 8.000000
+69: It is Parallelepiped: length = 2, width = 11, height = 6. SurfaceArea = 132.000000
+70: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+71: It is Parallelepiped: length = 7, width = 8, height = 4. SurfaceArea = 224.000000
+72: It is Parallelepiped: length = 10, width = 10, height = 3. SurfaceArea = 300.000000
+73: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+74: It is Parallelepiped: length = 9, width = 8, height = 6. SurfaceArea = 432.000000
+75: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+76: It is Sphere: radius = 6. SurfaceArea = 452.388947
+77: It is Sphere: radius = 4. SurfaceArea = 201.061768
+78: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+79: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+80: It is Parallelepiped: length = 1, width = 4, height = 1. SurfaceArea = 4.000000
+81: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+82: It is Parallelepiped: length = 2, width = 12, height = 3. SurfaceArea = 72.000000
+83: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+84: It is Sphere: radius = 3. SurfaceArea = 113.097237
+85: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+86: It is Parallelepiped: length = 10, width = 4, height = 6. SurfaceArea = 240.000000
+87: It is Parallelepiped: length = 2, width = 4, height = 5. SurfaceArea = 40.000000
+88: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+89: It is Parallelepiped: length = 5, width = 2, height = 4. SurfaceArea = 40.000000
+90: It is Sphere: radius = 7. SurfaceArea = 615.751648
+91: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+92: It is Parallelepiped: length = 4, width = 9, height = 1. SurfaceArea = 36.000000
+93: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+94: It is Parallelepiped: length = 9, width = 1, height = 4. SurfaceArea = 36.000000
+95: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+96: It is Parallelepiped: length = 7, width = 8, height = 6. SurfaceArea = 336.000000
+97: It is Parallelepiped: length = 3, width = 1, height = 3. SurfaceArea = 9.000000
+98: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+99: It is Parallelepiped: length = 9, width = 12, height = 4. SurfaceArea = 432.000000
+100: It is Sphere: radius = 4. SurfaceArea = 201.061768
+101: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+102: It is Parallelepiped: length = 6, width = 10, height = 5. SurfaceArea = 300.000000
+103: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+104: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+105: It is Parallelepiped: length = 5, width = 8, height = 6. SurfaceArea = 240.000000
+106: It is Parallelepiped: length = 10, width = 3, height = 1. SurfaceArea = 30.000000
+107: It is Parallelepiped: length = 6, width = 3, height = 2. SurfaceArea = 36.000000
+108: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+109: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+110: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+111: It is Parallelepiped: length = 4, width = 4, height = 5. SurfaceArea = 80.000000
+112: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+113: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+114: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+115: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+116: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+117: It is Parallelepiped: length = 6, width = 10, height = 5. SurfaceArea = 300.000000
+118: It is Parallelepiped: length = 5, width = 6, height = 2. SurfaceArea = 60.000000
+119: It is Parallelepiped: length = 2, width = 2, height = 6. SurfaceArea = 24.000000
+120: It is Parallelepiped: length = 6, width = 12, height = 2. SurfaceArea = 144.000000
+121: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+122: It is Parallelepiped: length = 6, width = 11, height = 1. SurfaceArea = 66.000000
+123: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+124: It is Sphere: radius = 3. SurfaceArea = 113.097237
+125: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+126: It is Sphere: radius = 3. SurfaceArea = 113.097237
+127: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+128: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+129: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+130: It is Parallelepiped: length = 10, width = 7, height = 4. SurfaceArea = 280.000000
+131: It is Sphere: radius = 5. SurfaceArea = 314.158997
+132: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+133: It is Parallelepiped: length = 10, width = 5, height = 4. SurfaceArea = 200.000000
+134: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+135: It is Parallelepiped: length = 9, width = 3, height = 6. SurfaceArea = 162.000000
+136: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+137: It is Parallelepiped: length = 6, width = 10, height = 5. SurfaceArea = 300.000000
+138: It is Parallelepiped: length = 5, width = 7, height = 3. SurfaceArea = 105.000000
+139: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+140: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+141: It is Parallelepiped: length = 8, width = 5, height = 6. SurfaceArea = 240.000000
+142: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+143: It is Parallelepiped: length = 9, width = 7, height = 6. SurfaceArea = 378.000000
+144: It is Sphere: radius = 1. SurfaceArea = 12.566360
+145: It is Parallelepiped: length = 8, width = 6, height = 2. SurfaceArea = 96.000000
+146: It is Parallelepiped: length = 6, width = 10, height = 5. SurfaceArea = 300.000000
+147: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+148: It is Parallelepiped: length = 2, width = 12, height = 1. SurfaceArea = 24.000000
+149: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+150: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+151: It is Parallelepiped: length = 3, width = 11, height = 3. SurfaceArea = 99.000000
+152: It is Parallelepiped: length = 1, width = 13, height = 3. SurfaceArea = 39.000000
+153: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+154: It is Parallelepiped: length = 1, width = 2, height = 6. SurfaceArea = 12.000000
+155: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+156: It is Parallelepiped: length = 8, width = 6, height = 5. SurfaceArea = 240.000000
+157: It is Parallelepiped: length = 5, width = 5, height = 1. SurfaceArea = 25.000000
+158: It is Parallelepiped: length = 6, width = 5, height = 5. SurfaceArea = 150.000000
+159: It is Parallelepiped: length = 3, width = 4, height = 3. SurfaceArea = 36.000000
+160: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+161: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+162: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+163: It is Parallelepiped: length = 3, width = 6, height = 4. SurfaceArea = 72.000000
+164: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+165: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+166: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+167: It is Sphere: radius = 8. SurfaceArea = 804.247070
+168: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+169: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+170: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+171: It is Sphere: radius = 8. SurfaceArea = 804.247070
+172: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+173: It is Sphere: radius = 8. SurfaceArea = 804.247070
+174: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+175: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+176: It is Parallelepiped: length = 3, width = 7, height = 3. SurfaceArea = 63.000000
+177: It is Parallelepiped: length = 2, width = 4, height = 6. SurfaceArea = 48.000000
+178: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+179: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+180: It is Parallelepiped: length = 7, width = 9, height = 4. SurfaceArea = 252.000000
+181: It is Sphere: radius = 8. SurfaceArea = 804.247070
+182: It is Sphere: radius = 1. SurfaceArea = 12.566360
+183: It is Sphere: radius = 5. SurfaceArea = 314.158997
+184: It is Parallelepiped: length = 4, width = 1, height = 2. SurfaceArea = 8.000000
+185: It is Parallelepiped: length = 10, width = 13, height = 2. SurfaceArea = 260.000000
+186: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+187: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+188: It is Parallelepiped: length = 1, width = 7, height = 2. SurfaceArea = 14.000000
+189: It is Parallelepiped: length = 1, width = 1, height = 3. SurfaceArea = 3.000000
+190: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+191: It is Parallelepiped: length = 8, width = 3, height = 3. SurfaceArea = 72.000000
+192: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+193: It is Sphere: radius = 5. SurfaceArea = 314.158997
+194: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+195: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+196: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+197: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+198: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+199: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+200: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+201: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+202: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+203: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+204: It is Parallelepiped: length = 3, width = 4, height = 3. SurfaceArea = 36.000000
+205: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+206: It is Parallelepiped: length = 2, width = 10, height = 4. SurfaceArea = 80.000000
+207: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+208: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+209: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+210: It is Parallelepiped: length = 3, width = 10, height = 5. SurfaceArea = 150.000000
+211: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+212: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+213: It is Parallelepiped: length = 4, width = 8, height = 6. SurfaceArea = 192.000000
+214: It is Parallelepiped: length = 6, width = 6, height = 1. SurfaceArea = 36.000000
+215: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+216: It is Sphere: radius = 3. SurfaceArea = 113.097237
+217: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+218: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+219: It is Sphere: radius = 6. SurfaceArea = 452.388947
+220: It is Parallelepiped: length = 1, width = 2, height = 3. SurfaceArea = 6.000000
+221: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+222: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+223: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+224: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+225: It is Parallelepiped: length = 5, width = 6, height = 2. SurfaceArea = 60.000000
+226: It is Sphere: radius = 6. SurfaceArea = 452.388947
+227: It is Parallelepiped: length = 9, width = 9, height = 1. SurfaceArea = 81.000000
+228: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+229: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+230: It is Parallelepiped: length = 3, width = 13, height = 2. SurfaceArea = 78.000000
+231: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+232: It is Sphere: radius = 4. SurfaceArea = 201.061768
+233: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+234: It is Parallelepiped: length = 4, width = 5, height = 3. SurfaceArea = 60.000000
+235: It is Parallelepiped: length = 1, width = 4, height = 5. SurfaceArea = 20.000000
+236: It is Parallelepiped: length = 6, width = 1, height = 6. SurfaceArea = 36.000000
+237: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+238: It is Parallelepiped: length = 1, width = 11, height = 4. SurfaceArea = 44.000000
+239: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+240: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+241: It is Sphere: radius = 1. SurfaceArea = 12.566360
+242: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+243: It is Parallelepiped: length = 10, width = 13, height = 4. SurfaceArea = 520.000000
+244: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+245: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+246: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+247: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+248: It is Parallelepiped: length = 7, width = 4, height = 2. SurfaceArea = 56.000000
+249: It is Parallelepiped: length = 2, width = 13, height = 5. SurfaceArea = 130.000000
+250: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+251: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+252: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+253: It is Parallelepiped: length = 3, width = 7, height = 4. SurfaceArea = 84.000000
+254: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+255: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+256: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+257: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+258: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+259: It is Parallelepiped: length = 8, width = 1, height = 6. SurfaceArea = 48.000000
+260: It is Parallelepiped: length = 4, width = 13, height = 6. SurfaceArea = 312.000000
+261: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+262: It is Sphere: radius = 1. SurfaceArea = 12.566360
+263: It is Parallelepiped: length = 3, width = 2, height = 4. SurfaceArea = 24.000000
+264: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+265: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+266: It is Sphere: radius = 6. SurfaceArea = 452.388947
+267: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+268: It is Sphere: radius = 3. SurfaceArea = 113.097237
+269: It is Parallelepiped: length = 8, width = 13, height = 5. SurfaceArea = 520.000000
+270: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+271: It is Parallelepiped: length = 6, width = 5, height = 3. SurfaceArea = 90.000000
+272: It is Parallelepiped: length = 9, width = 2, height = 5. SurfaceArea = 90.000000
+273: It is Parallelepiped: length = 6, width = 2, height = 3. SurfaceArea = 36.000000
+274: It is Sphere: radius = 1. SurfaceArea = 12.566360
+275: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+276: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+277: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+278: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+279: It is Parallelepiped: length = 8, width = 10, height = 4. SurfaceArea = 320.000000
+280: It is Sphere: radius = 4. SurfaceArea = 201.061768
+281: It is Parallelepiped: length = 8, width = 5, height = 6. SurfaceArea = 240.000000
+282: It is Parallelepiped: length = 6, width = 3, height = 4. SurfaceArea = 72.000000
+283: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+284: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+285: It is Parallelepiped: length = 4, width = 6, height = 2. SurfaceArea = 48.000000
+286: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+287: It is Parallelepiped: length = 1, width = 6, height = 1. SurfaceArea = 6.000000
+288: It is Parallelepiped: length = 9, width = 3, height = 1. SurfaceArea = 27.000000
+289: It is Parallelepiped: length = 4, width = 7, height = 1. SurfaceArea = 28.000000
+290: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+291: It is Sphere: radius = 4. SurfaceArea = 201.061768
+292: It is Parallelepiped: length = 7, width = 2, height = 1. SurfaceArea = 14.000000
+293: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+294: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+295: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+296: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+297: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+298: It is Parallelepiped: length = 7, width = 10, height = 2. SurfaceArea = 140.000000
+299: It is Sphere: radius = 2. SurfaceArea = 50.265442
+300: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+301: It is Parallelepiped: length = 6, width = 12, height = 3. SurfaceArea = 216.000000
+302: It is Parallelepiped: length = 4, width = 10, height = 3. SurfaceArea = 120.000000
+303: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+304: It is Parallelepiped: length = 7, width = 5, height = 4. SurfaceArea = 140.000000
+305: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+306: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+307: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+308: It is Parallelepiped: length = 7, width = 8, height = 6. SurfaceArea = 336.000000
+309: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+310: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+311: It is Parallelepiped: length = 9, width = 8, height = 6. SurfaceArea = 432.000000
+312: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+313: It is Parallelepiped: length = 2, width = 1, height = 2. SurfaceArea = 4.000000
+314: It is Sphere: radius = 7. SurfaceArea = 615.751648
+315: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+316: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+317: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+318: It is Parallelepiped: length = 3, width = 8, height = 3. SurfaceArea = 72.000000
+319: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+320: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+321: It is Parallelepiped: length = 7, width = 6, height = 1. SurfaceArea = 42.000000
+322: It is Parallelepiped: length = 4, width = 5, height = 5. SurfaceArea = 100.000000
+323: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+324: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+325: It is Parallelepiped: length = 6, width = 6, height = 1. SurfaceArea = 36.000000
+326: It is Parallelepiped: length = 7, width = 4, height = 6. SurfaceArea = 168.000000
+327: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+328: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+329: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+330: It is Parallelepiped: length = 1, width = 8, height = 6. SurfaceArea = 48.000000
+331: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+332: It is Parallelepiped: length = 10, width = 3, height = 6. SurfaceArea = 180.000000
+333: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+334: It is Sphere: radius = 2. SurfaceArea = 50.265442
+335: It is Parallelepiped: length = 3, width = 4, height = 6. SurfaceArea = 72.000000
+336: It is Parallelepiped: length = 10, width = 9, height = 5. SurfaceArea = 450.000000
+337: It is Parallelepiped: length = 1, width = 2, height = 1. SurfaceArea = 2.000000
+338: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+339: It is Parallelepiped: length = 4, width = 8, height = 4. SurfaceArea = 128.000000
+340: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+341: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+342: It is Sphere: radius = 5. SurfaceArea = 314.158997
+343: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+344: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+345: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+346: It is Parallelepiped: length = 9, width = 3, height = 5. SurfaceArea = 135.000000
+347: It is Parallelepiped: length = 1, width = 6, height = 1. SurfaceArea = 6.000000
+348: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+349: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+350: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+351: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+352: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+353: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+354: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+355: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+356: It is Parallelepiped: length = 1, width = 8, height = 4. SurfaceArea = 32.000000
+357: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+358: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+359: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+360: It is Parallelepiped: length = 2, width = 11, height = 2. SurfaceArea = 44.000000
+361: It is Parallelepiped: length = 6, width = 7, height = 6. SurfaceArea = 252.000000
+362: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+363: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+364: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+365: It is Sphere: radius = 1. SurfaceArea = 12.566360
+366: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+367: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+368: It is Sphere: radius = 5. SurfaceArea = 314.158997
+369: It is Sphere: radius = 6. SurfaceArea = 452.388947
+370: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+371: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+372: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+373: It is Sphere: radius = 5. SurfaceArea = 314.158997
+374: It is Parallelepiped: length = 7, width = 3, height = 5. SurfaceArea = 105.000000
+375: It is Sphere: radius = 5. SurfaceArea = 314.158997
+376: It is Parallelepiped: length = 6, width = 2, height = 6. SurfaceArea = 72.000000
+377: It is Sphere: radius = 2. SurfaceArea = 50.265442
+378: It is Sphere: radius = 3. SurfaceArea = 113.097237
+379: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+380: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+381: It is Sphere: radius = 3. SurfaceArea = 113.097237
+382: It is Parallelepiped: length = 8, width = 4, height = 5. SurfaceArea = 160.000000
+383: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+384: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+385: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+386: It is Parallelepiped: length = 4, width = 6, height = 5. SurfaceArea = 120.000000
+387: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+388: It is Parallelepiped: length = 9, width = 4, height = 3. SurfaceArea = 108.000000
+389: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+390: It is Parallelepiped: length = 9, width = 10, height = 5. SurfaceArea = 450.000000
+391: It is Parallelepiped: length = 3, width = 11, height = 4. SurfaceArea = 132.000000
+392: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+393: It is Sphere: radius = 7. SurfaceArea = 615.751648
+394: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+395: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+396: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+397: It is Parallelepiped: length = 3, width = 3, height = 3. SurfaceArea = 27.000000
+398: It is Parallelepiped: length = 6, width = 1, height = 5. SurfaceArea = 30.000000
+399: It is Parallelepiped: length = 8, width = 4, height = 3. SurfaceArea = 96.000000
+400: It is Sphere: radius = 1. SurfaceArea = 12.566360
+401: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+402: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+403: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+404: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+405: It is Parallelepiped: length = 8, width = 3, height = 2. SurfaceArea = 48.000000
+406: It is Parallelepiped: length = 8, width = 11, height = 4. SurfaceArea = 352.000000
+407: It is Parallelepiped: length = 1, width = 4, height = 6. SurfaceArea = 24.000000
+408: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+409: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+410: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+411: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+412: It is Parallelepiped: length = 3, width = 2, height = 3. SurfaceArea = 18.000000
+413: It is Sphere: radius = 7. SurfaceArea = 615.751648
+414: It is Parallelepiped: length = 7, width = 12, height = 4. SurfaceArea = 336.000000
+415: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+416: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+417: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+418: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+419: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+420: It is Parallelepiped: length = 5, width = 6, height = 1. SurfaceArea = 30.000000
+421: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+422: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+423: It is Sphere: radius = 4. SurfaceArea = 201.061768
+424: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+425: It is Parallelepiped: length = 1, width = 4, height = 5. SurfaceArea = 20.000000
+426: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+427: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+428: It is Sphere: radius = 5. SurfaceArea = 314.158997
+429: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+430: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+431: It is Parallelepiped: length = 5, width = 10, height = 2. SurfaceArea = 100.000000
+432: It is Parallelepiped: length = 1, width = 12, height = 5. SurfaceArea = 60.000000
+433: It is Sphere: radius = 6. SurfaceArea = 452.388947
+434: It is Parallelepiped: length = 4, width = 1, height = 5. SurfaceArea = 20.000000
+435: It is Sphere: radius = 7. SurfaceArea = 615.751648
+436: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+437: It is Sphere: radius = 1. SurfaceArea = 12.566360
+438: It is Parallelepiped: length = 10, width = 8, height = 2. SurfaceArea = 160.000000
+439: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+440: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+441: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+442: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+443: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+444: It is Sphere: radius = 7. SurfaceArea = 615.751648
+445: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+446: It is Sphere: radius = 1. SurfaceArea = 12.566360
+447: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+448: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+449: It is Parallelepiped: length = 9, width = 7, height = 4. SurfaceArea = 252.000000
+450: It is Sphere: radius = 7. SurfaceArea = 615.751648
+451: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+452: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+453: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+454: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+455: It is Sphere: radius = 5. SurfaceArea = 314.158997
+456: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+457: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+458: It is Parallelepiped: length = 5, width = 5, height = 2. SurfaceArea = 50.000000
+459: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+460: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+461: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+462: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+463: It is Parallelepiped: length = 5, width = 12, height = 5. SurfaceArea = 300.000000
+464: It is Parallelepiped: length = 10, width = 13, height = 3. SurfaceArea = 390.000000
+465: It is Sphere: radius = 8. SurfaceArea = 804.247070
+466: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+467: It is Sphere: radius = 4. SurfaceArea = 201.061768
+468: It is Parallelepiped: length = 5, width = 5, height = 3. SurfaceArea = 75.000000
+469: It is Parallelepiped: length = 9, width = 5, height = 5. SurfaceArea = 225.000000
+470: It is Sphere: radius = 1. SurfaceArea = 12.566360
+471: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+472: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+473: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+474: It is Sphere: radius = 2. SurfaceArea = 50.265442
+475: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+476: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+477: It is Parallelepiped: length = 9, width = 10, height = 1. SurfaceArea = 90.000000
+478: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+479: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+480: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+481: It is Parallelepiped: length = 6, width = 9, height = 1. SurfaceArea = 54.000000
+482: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+483: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+484: It is Parallelepiped: length = 9, width = 12, height = 2. SurfaceArea = 216.000000
+485: It is Sphere: radius = 4. SurfaceArea = 201.061768
+486: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+487: It is Parallelepiped: length = 2, width = 12, height = 3. SurfaceArea = 72.000000
+488: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+489: It is Parallelepiped: length = 6, width = 6, height = 4. SurfaceArea = 144.000000
+490: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+491: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+492: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+493: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+494: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+495: It is Parallelepiped: length = 5, width = 10, height = 4. SurfaceArea = 200.000000
+496: It is Sphere: radius = 8. SurfaceArea = 804.247070
+497: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+498: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+499: It is Parallelepiped: length = 1, width = 7, height = 3. SurfaceArea = 21.000000
+500: It is Parallelepiped: length = 8, width = 5, height = 1. SurfaceArea = 40.000000
+501: It is Sphere: radius = 2. SurfaceArea = 50.265442
+502: It is Sphere: radius = 4. SurfaceArea = 201.061768
+503: It is Parallelepiped: length = 4, width = 5, height = 6. SurfaceArea = 120.000000
+504: It is Sphere: radius = 8. SurfaceArea = 804.247070
+505: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+506: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+507: It is Sphere: radius = 8. SurfaceArea = 804.247070
+508: It is Parallelepiped: length = 9, width = 10, height = 3. SurfaceArea = 270.000000
+509: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+510: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+511: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+512: It is Parallelepiped: length = 9, width = 1, height = 4. SurfaceArea = 36.000000
+513: It is Sphere: radius = 4. SurfaceArea = 201.061768
+514: It is Parallelepiped: length = 6, width = 6, height = 4. SurfaceArea = 144.000000
+515: It is Parallelepiped: length = 1, width = 2, height = 5. SurfaceArea = 10.000000
+516: It is Sphere: radius = 2. SurfaceArea = 50.265442
+517: It is Parallelepiped: length = 7, width = 8, height = 5. SurfaceArea = 280.000000
+518: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+519: It is Parallelepiped: length = 6, width = 8, height = 1. SurfaceArea = 48.000000
+520: It is Sphere: radius = 1. SurfaceArea = 12.566360
+521: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+522: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+523: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+524: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+525: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+526: It is Parallelepiped: length = 3, width = 3, height = 3. SurfaceArea = 27.000000
+527: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+528: It is Parallelepiped: length = 5, width = 5, height = 1. SurfaceArea = 25.000000
+529: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+530: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+531: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+532: It is Parallelepiped: length = 10, width = 7, height = 4. SurfaceArea = 280.000000
+533: It is Sphere: radius = 1. SurfaceArea = 12.566360
+534: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+535: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+536: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+537: It is Parallelepiped: length = 1, width = 4, height = 1. SurfaceArea = 4.000000
+538: It is Parallelepiped: length = 10, width = 10, height = 1. SurfaceArea = 100.000000
+539: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+540: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+541: It is Parallelepiped: length = 6, width = 8, height = 1. SurfaceArea = 48.000000
+542: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+543: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+544: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+545: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+546: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+547: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+548: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+549: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+550: It is Parallelepiped: length = 10, width = 6, height = 2. SurfaceArea = 120.000000
+551: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+552: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+553: It is Parallelepiped: length = 7, width = 5, height = 1. SurfaceArea = 35.000000
+554: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+555: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+556: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+557: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+558: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+559: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+560: It is Sphere: radius = 4. SurfaceArea = 201.061768
+561: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+562: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+563: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+564: It is Parallelepiped: length = 2, width = 7, height = 3. SurfaceArea = 42.000000
+565: It is Parallelepiped: length = 4, width = 2, height = 1. SurfaceArea = 8.000000
+566: It is Sphere: radius = 2. SurfaceArea = 50.265442
+567: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+568: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+569: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+570: It is Parallelepiped: length = 10, width = 13, height = 1. SurfaceArea = 130.000000
+571: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+572: It is Parallelepiped: length = 5, width = 13, height = 2. SurfaceArea = 130.000000
+573: It is Parallelepiped: length = 1, width = 8, height = 1. SurfaceArea = 8.000000
+574: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+575: It is Sphere: radius = 6. SurfaceArea = 452.388947
+576: It is Parallelepiped: length = 6, width = 4, height = 5. SurfaceArea = 120.000000
+577: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+578: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+579: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+580: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+581: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+582: It is Parallelepiped: length = 7, width = 12, height = 2. SurfaceArea = 168.000000
+583: It is Sphere: radius = 6. SurfaceArea = 452.388947
+584: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+585: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+586: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+587: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+588: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+589: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+590: It is Parallelepiped: length = 7, width = 13, height = 1. SurfaceArea = 91.000000
+591: It is Parallelepiped: length = 8, width = 5, height = 1. SurfaceArea = 40.000000
+592: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+593: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+594: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+595: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+596: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+597: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+598: It is Parallelepiped: length = 2, width = 11, height = 3. SurfaceArea = 66.000000
+599: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+600: It is Parallelepiped: length = 5, width = 8, height = 6. SurfaceArea = 240.000000
+601: It is Parallelepiped: length = 6, width = 5, height = 4. SurfaceArea = 120.000000
+602: It is Parallelepiped: length = 9, width = 5, height = 5. SurfaceArea = 225.000000
+603: It is Sphere: radius = 8. SurfaceArea = 804.247070
+604: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+605: It is Parallelepiped: length = 10, width = 12, height = 6. SurfaceArea = 720.000000
+606: It is Sphere: radius = 6. SurfaceArea = 452.388947
+607: It is Parallelepiped: length = 3, width = 7, height = 1. SurfaceArea = 21.000000
+608: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+609: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+610: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+611: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+612: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+613: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+614: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+615: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+616: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+617: It is Sphere: radius = 3. SurfaceArea = 113.097237
+618: It is Sphere: radius = 7. SurfaceArea = 615.751648
+619: It is Parallelepiped: length = 9, width = 1, height = 1. SurfaceArea = 9.000000
+620: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+621: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+622: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+623: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+624: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+625: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+626: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+627: It is Parallelepiped: length = 6, width = 10, height = 5. SurfaceArea = 300.000000
+628: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+629: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+630: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+631: It is Parallelepiped: length = 4, width = 7, height = 4. SurfaceArea = 112.000000
+632: It is Parallelepiped: length = 9, width = 3, height = 3. SurfaceArea = 81.000000
+633: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+634: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+635: It is Sphere: radius = 2. SurfaceArea = 50.265442
+636: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+637: It is Parallelepiped: length = 4, width = 10, height = 2. SurfaceArea = 80.000000
+638: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+639: It is Parallelepiped: length = 5, width = 4, height = 6. SurfaceArea = 120.000000
+640: It is Parallelepiped: length = 8, width = 9, height = 3. SurfaceArea = 216.000000
+641: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+642: It is Parallelepiped: length = 10, width = 11, height = 1. SurfaceArea = 110.000000
+643: It is Sphere: radius = 2. SurfaceArea = 50.265442
+644: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+645: It is Sphere: radius = 6. SurfaceArea = 452.388947
+646: It is Parallelepiped: length = 3, width = 12, height = 3. SurfaceArea = 108.000000
+647: It is Parallelepiped: length = 2, width = 13, height = 2. SurfaceArea = 52.000000
+648: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+649: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+650: It is Sphere: radius = 7. SurfaceArea = 615.751648
+651: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+652: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+653: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+654: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+655: It is Parallelepiped: length = 9, width = 12, height = 2. SurfaceArea = 216.000000
+656: It is Sphere: radius = 5. SurfaceArea = 314.158997
+657: It is Sphere: radius = 7. SurfaceArea = 615.751648
+658: It is Parallelepiped: length = 8, width = 13, height = 1. SurfaceArea = 104.000000
+659: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+660: It is Parallelepiped: length = 10, width = 6, height = 5. SurfaceArea = 300.000000
+661: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+662: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+663: It is Sphere: radius = 1. SurfaceArea = 12.566360
+664: It is Parallelepiped: length = 8, width = 3, height = 5. SurfaceArea = 120.000000
+665: It is Parallelepiped: length = 8, width = 6, height = 2. SurfaceArea = 96.000000
+666: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+667: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+668: It is Parallelepiped: length = 4, width = 9, height = 2. SurfaceArea = 72.000000
+669: It is Sphere: radius = 5. SurfaceArea = 314.158997
+670: It is Parallelepiped: length = 7, width = 8, height = 1. SurfaceArea = 56.000000
+671: It is Sphere: radius = 1. SurfaceArea = 12.566360
+672: It is Parallelepiped: length = 8, width = 9, height = 5. SurfaceArea = 360.000000
+673: It is Parallelepiped: length = 10, width = 6, height = 2. SurfaceArea = 120.000000
+674: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+675: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+676: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+677: It is Sphere: radius = 3. SurfaceArea = 113.097237
+678: It is Parallelepiped: length = 6, width = 3, height = 1. SurfaceArea = 18.000000
+679: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+680: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+681: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+682: It is Sphere: radius = 7. SurfaceArea = 615.751648
+683: It is Parallelepiped: length = 4, width = 13, height = 3. SurfaceArea = 156.000000
+684: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+685: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+686: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+687: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+688: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+689: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+690: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+691: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+692: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+693: It is Parallelepiped: length = 5, width = 12, height = 4. SurfaceArea = 240.000000
+694: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+695: It is Parallelepiped: length = 6, width = 3, height = 5. SurfaceArea = 90.000000
+696: It is Parallelepiped: length = 7, width = 13, height = 1. SurfaceArea = 91.000000
+697: It is Sphere: radius = 1. SurfaceArea = 12.566360
+698: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+699: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+700: It is Parallelepiped: length = 7, width = 8, height = 3. SurfaceArea = 168.000000
+701: It is Parallelepiped: length = 1, width = 11, height = 5. SurfaceArea = 55.000000
+702: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+703: It is Sphere: radius = 7. SurfaceArea = 615.751648
+704: It is Parallelepiped: length = 4, width = 1, height = 1. SurfaceArea = 4.000000
+705: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+706: It is Sphere: radius = 8. SurfaceArea = 804.247070
+707: It is Parallelepiped: length = 7, width = 8, height = 3. SurfaceArea = 168.000000
+708: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+709: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+710: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+711: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+712: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+713: It is Parallelepiped: length = 3, width = 9, height = 1. SurfaceArea = 27.000000
+714: It is Parallelepiped: length = 9, width = 6, height = 3. SurfaceArea = 162.000000
+715: It is Parallelepiped: length = 5, width = 10, height = 1. SurfaceArea = 50.000000
+716: It is Parallelepiped: length = 10, width = 11, height = 2. SurfaceArea = 220.000000
+717: It is Parallelepiped: length = 1, width = 10, height = 2. SurfaceArea = 20.000000
+718: It is Parallelepiped: length = 2, width = 7, height = 6. SurfaceArea = 84.000000
+719: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+720: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+721: It is Sphere: radius = 3. SurfaceArea = 113.097237
+722: It is Sphere: radius = 4. SurfaceArea = 201.061768
+723: It is Parallelepiped: length = 5, width = 11, height = 5. SurfaceArea = 275.000000
+724: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+725: It is Sphere: radius = 5. SurfaceArea = 314.158997
+726: It is Parallelepiped: length = 1, width = 4, height = 6. SurfaceArea = 24.000000
+727: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+728: It is Parallelepiped: length = 7, width = 4, height = 1. SurfaceArea = 28.000000
+729: It is Parallelepiped: length = 1, width = 11, height = 3. SurfaceArea = 33.000000
+730: It is Sphere: radius = 6. SurfaceArea = 452.388947
+731: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+732: It is Parallelepiped: length = 10, width = 10, height = 5. SurfaceArea = 500.000000
+733: It is Parallelepiped: length = 7, width = 3, height = 6. SurfaceArea = 126.000000
+734: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+735: It is Parallelepiped: length = 9, width = 1, height = 4. SurfaceArea = 36.000000
+736: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+737: It is Parallelepiped: length = 6, width = 4, height = 2. SurfaceArea = 48.000000
+738: It is Parallelepiped: length = 8, width = 5, height = 3. SurfaceArea = 120.000000
+739: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+740: It is Parallelepiped: length = 6, width = 13, height = 5. SurfaceArea = 390.000000
+741: It is Sphere: radius = 5. SurfaceArea = 314.158997
+742: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+743: It is Tetrahedron: edge = 5. SurfaceArea = 43.299999
+744: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+745: It is Parallelepiped: length = 5, width = 12, height = 6. SurfaceArea = 360.000000
+746: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+747: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+748: It is Sphere: radius = 4. SurfaceArea = 201.061768
+749: It is Parallelepiped: length = 6, width = 2, height = 4. SurfaceArea = 48.000000
+750: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+751: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+752: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+753: It is Parallelepiped: length = 6, width = 1, height = 3. SurfaceArea = 18.000000
+754: It is Sphere: radius = 3. SurfaceArea = 113.097237
+755: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+756: It is Sphere: radius = 8. SurfaceArea = 804.247070
+757: It is Parallelepiped: length = 9, width = 2, height = 1. SurfaceArea = 18.000000
+758: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+759: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+760: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+761: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+762: It is Parallelepiped: length = 4, width = 1, height = 3. SurfaceArea = 12.000000
+763: It is Sphere: radius = 7. SurfaceArea = 615.751648
+764: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+765: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+766: It is Parallelepiped: length = 10, width = 13, height = 4. SurfaceArea = 520.000000
+767: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+768: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+769: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+770: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+771: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+772: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+773: It is Parallelepiped: length = 2, width = 13, height = 1. SurfaceArea = 26.000000
+774: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+775: It is Parallelepiped: length = 10, width = 8, height = 1. SurfaceArea = 80.000000
+776: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+777: It is Sphere: radius = 4. SurfaceArea = 201.061768
+778: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+779: It is Parallelepiped: length = 9, width = 11, height = 5. SurfaceArea = 495.000000
+780: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+781: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+782: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+783: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+784: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+785: It is Sphere: radius = 1. SurfaceArea = 12.566360
+786: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+787: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+788: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+789: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+790: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+791: It is Sphere: radius = 15. SurfaceArea = 2827.430908
+792: It is Parallelepiped: length = 2, width = 9, height = 2. SurfaceArea = 36.000000
+793: It is Parallelepiped: length = 10, width = 9, height = 6. SurfaceArea = 540.000000
+794: It is Parallelepiped: length = 2, width = 8, height = 6. SurfaceArea = 96.000000
+795: It is Parallelepiped: length = 10, width = 6, height = 2. SurfaceArea = 120.000000
+796: It is Parallelepiped: length = 9, width = 11, height = 6. SurfaceArea = 594.000000
+797: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+798: It is Parallelepiped: length = 7, width = 6, height = 1. SurfaceArea = 42.000000
+799: It is Sphere: radius = 2. SurfaceArea = 50.265442
+800: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+801: It is Parallelepiped: length = 4, width = 8, height = 1. SurfaceArea = 32.000000
+802: It is Parallelepiped: length = 10, width = 12, height = 2. SurfaceArea = 240.000000
+803: It is Sphere: radius = 2. SurfaceArea = 50.265442
+804: It is Tetrahedron: edge = 7. SurfaceArea = 84.867996
+805: It is Sphere: radius = 18. SurfaceArea = 4071.500732
+806: It is Parallelepiped: length = 1, width = 2, height = 5. SurfaceArea = 10.000000
+807: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+808: It is Parallelepiped: length = 1, width = 1, height = 1. SurfaceArea = 1.000000
+809: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+810: It is Parallelepiped: length = 5, width = 12, height = 5. SurfaceArea = 300.000000
+811: It is Parallelepiped: length = 7, width = 7, height = 3. SurfaceArea = 147.000000
+812: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+813: It is Sphere: radius = 8. SurfaceArea = 804.247070
+814: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+815: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+816: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+817: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+818: It is Sphere: radius = 4. SurfaceArea = 201.061768
+819: It is Sphere: radius = 4. SurfaceArea = 201.061768
+820: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+821: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+822: It is Parallelepiped: length = 8, width = 7, height = 4. SurfaceArea = 224.000000
+823: It is Parallelepiped: length = 3, width = 1, height = 2. SurfaceArea = 6.000000
+824: It is Parallelepiped: length = 2, width = 10, height = 5. SurfaceArea = 100.000000
+825: It is Sphere: radius = 4. SurfaceArea = 201.061768
+826: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+827: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+828: It is Parallelepiped: length = 2, width = 4, height = 6. SurfaceArea = 48.000000
+829: It is Parallelepiped: length = 3, width = 1, height = 1. SurfaceArea = 3.000000
+830: It is Parallelepiped: length = 9, width = 11, height = 2. SurfaceArea = 198.000000
+831: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+832: It is Parallelepiped: length = 4, width = 6, height = 2. SurfaceArea = 48.000000
+833: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+834: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+835: It is Parallelepiped: length = 2, width = 2, height = 4. SurfaceArea = 16.000000
+836: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+837: It is Parallelepiped: length = 3, width = 2, height = 1. SurfaceArea = 6.000000
+838: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+839: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+840: It is Sphere: radius = 9. SurfaceArea = 1017.875183
+841: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+842: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+843: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+844: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+845: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+846: It is Parallelepiped: length = 6, width = 13, height = 6. SurfaceArea = 468.000000
+847: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+848: It is Sphere: radius = 6. SurfaceArea = 452.388947
+849: It is Sphere: radius = 5. SurfaceArea = 314.158997
+850: It is Sphere: radius = 4. SurfaceArea = 201.061768
+851: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+852: It is Sphere: radius = 10. SurfaceArea = 1256.635986
+853: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+854: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+855: It is Sphere: radius = 5. SurfaceArea = 314.158997
+856: It is Parallelepiped: length = 9, width = 3, height = 6. SurfaceArea = 162.000000
+857: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+858: It is Parallelepiped: length = 2, width = 1, height = 6. SurfaceArea = 12.000000
+859: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+860: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+861: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+862: It is Sphere: radius = 4. SurfaceArea = 201.061768
+863: It is Parallelepiped: length = 9, width = 4, height = 5. SurfaceArea = 180.000000
+864: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+865: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+866: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+867: It is Parallelepiped: length = 8, width = 5, height = 3. SurfaceArea = 120.000000
+868: It is Parallelepiped: length = 1, width = 4, height = 5. SurfaceArea = 20.000000
+869: It is Parallelepiped: length = 10, width = 7, height = 4. SurfaceArea = 280.000000
+870: It is Sphere: radius = 3. SurfaceArea = 113.097237
+871: It is Parallelepiped: length = 3, width = 12, height = 1. SurfaceArea = 36.000000
+872: It is Parallelepiped: length = 4, width = 11, height = 3. SurfaceArea = 132.000000
+873: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+874: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+875: It is Sphere: radius = 8. SurfaceArea = 804.247070
+876: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+877: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+878: It is Parallelepiped: length = 2, width = 2, height = 1. SurfaceArea = 4.000000
+879: It is Parallelepiped: length = 2, width = 4, height = 5. SurfaceArea = 40.000000
+880: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+881: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+882: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+883: It is Parallelepiped: length = 1, width = 13, height = 6. SurfaceArea = 78.000000
+884: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+885: It is Sphere: radius = 4. SurfaceArea = 201.061768
+886: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+887: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+888: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+889: It is Sphere: radius = 3. SurfaceArea = 113.097237
+890: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+891: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+892: It is Parallelepiped: length = 8, width = 4, height = 4. SurfaceArea = 128.000000
+893: It is Tetrahedron: edge = 18. SurfaceArea = 561.168030
+894: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+895: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+896: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+897: It is Parallelepiped: length = 7, width = 9, height = 6. SurfaceArea = 378.000000
+898: It is Parallelepiped: length = 1, width = 11, height = 4. SurfaceArea = 44.000000
+899: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+900: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+901: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+902: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+903: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+904: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+905: It is Parallelepiped: length = 1, width = 11, height = 2. SurfaceArea = 22.000000
+906: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+907: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+908: It is Sphere: radius = 3. SurfaceArea = 113.097237
+909: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+910: It is Parallelepiped: length = 6, width = 4, height = 3. SurfaceArea = 72.000000
+911: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+912: It is Sphere: radius = 2. SurfaceArea = 50.265442
+913: It is Sphere: radius = 19. SurfaceArea = 4536.456055
+914: It is Parallelepiped: length = 9, width = 1, height = 4. SurfaceArea = 36.000000
+915: It is Parallelepiped: length = 2, width = 4, height = 5. SurfaceArea = 40.000000
+916: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+917: It is Parallelepiped: length = 6, width = 12, height = 2. SurfaceArea = 144.000000
+918: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+919: It is Tetrahedron: edge = 9. SurfaceArea = 140.292007
+920: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+921: It is Parallelepiped: length = 4, width = 4, height = 4. SurfaceArea = 64.000000
+922: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+923: It is Parallelepiped: length = 9, width = 11, height = 5. SurfaceArea = 495.000000
+924: It is Parallelepiped: length = 9, width = 6, height = 2. SurfaceArea = 108.000000
+925: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+926: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+927: It is Parallelepiped: length = 10, width = 9, height = 6. SurfaceArea = 540.000000
+928: It is Parallelepiped: length = 4, width = 3, height = 5. SurfaceArea = 60.000000
+929: It is Tetrahedron: edge = 15. SurfaceArea = 389.700012
+930: It is Tetrahedron: edge = 8. SurfaceArea = 110.848000
+931: It is Tetrahedron: edge = 14. SurfaceArea = 339.471985
+932: It is Sphere: radius = 7. SurfaceArea = 615.751648
+933: It is Parallelepiped: length = 9, width = 1, height = 1. SurfaceArea = 9.000000
+934: It is Sphere: radius = 8. SurfaceArea = 804.247070
+935: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+936: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+937: It is Parallelepiped: length = 1, width = 7, height = 2. SurfaceArea = 14.000000
+938: It is Parallelepiped: length = 10, width = 4, height = 2. SurfaceArea = 80.000000
+939: It is Parallelepiped: length = 9, width = 1, height = 1. SurfaceArea = 9.000000
+940: It is Parallelepiped: length = 10, width = 8, height = 5. SurfaceArea = 400.000000
+941: It is Parallelepiped: length = 5, width = 10, height = 3. SurfaceArea = 150.000000
+942: It is Sphere: radius = 4. SurfaceArea = 201.061768
+943: It is Sphere: radius = 13. SurfaceArea = 2123.714844
+944: It is Sphere: radius = 11. SurfaceArea = 1520.529541
+945: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+946: It is Sphere: radius = 7. SurfaceArea = 615.751648
+947: It is Parallelepiped: length = 10, width = 11, height = 2. SurfaceArea = 220.000000
+948: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+949: It is Parallelepiped: length = 7, width = 11, height = 6. SurfaceArea = 462.000000
+950: It is Sphere: radius = 3. SurfaceArea = 113.097237
+951: It is Tetrahedron: edge = 3. SurfaceArea = 15.588000
+952: It is Sphere: radius = 6. SurfaceArea = 452.388947
+953: It is Parallelepiped: length = 3, width = 11, height = 5. SurfaceArea = 165.000000
+954: It is Tetrahedron: edge = 10. SurfaceArea = 173.199997
+955: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+956: It is Tetrahedron: edge = 6. SurfaceArea = 62.352001
+957: It is Sphere: radius = 6. SurfaceArea = 452.388947
+958: It is Sphere: radius = 2. SurfaceArea = 50.265442
+959: It is Tetrahedron: edge = 1. SurfaceArea = 1.732000
+960: It is Sphere: radius = 14. SurfaceArea = 2463.006592
+961: It is Sphere: radius = 12. SurfaceArea = 1809.555786
+962: It is Tetrahedron: edge = 17. SurfaceArea = 500.548004
+963: It is Parallelepiped: length = 2, width = 8, height = 5. SurfaceArea = 80.000000
+964: It is Tetrahedron: edge = 11. SurfaceArea = 209.572006
+965: It is Tetrahedron: edge = 12. SurfaceArea = 249.408005
+966: It is Tetrahedron: edge = 16. SurfaceArea = 443.391998
+967: It is Sphere: radius = 3. SurfaceArea = 113.097237
+968: It is Tetrahedron: edge = 19. SurfaceArea = 625.252014
+969: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+970: It is Parallelepiped: length = 9, width = 13, height = 5. SurfaceArea = 585.000000
+971: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+972: It is Sphere: radius = 8. SurfaceArea = 804.247070
+973: It is Parallelepiped: length = 4, width = 7, height = 2. SurfaceArea = 56.000000
+974: It is Parallelepiped: length = 9, width = 4, height = 6. SurfaceArea = 216.000000
+975: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+976: It is Tetrahedron: edge = 13. SurfaceArea = 292.708008
+977: It is Sphere: radius = 3. SurfaceArea = 113.097237
+978: It is Parallelepiped: length = 4, width = 11, height = 1. SurfaceArea = 44.000000
+979: It is Parallelepiped: length = 3, width = 8, height = 4. SurfaceArea = 96.000000
+980: It is Sphere: radius = 6. SurfaceArea = 452.388947
+981: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+982: It is Sphere: radius = 3. SurfaceArea = 113.097237
+983: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+984: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+985: It is Sphere: radius = 2. SurfaceArea = 50.265442
+986: It is Tetrahedron: edge = 4. SurfaceArea = 27.712000
+987: It is Sphere: radius = 16. SurfaceArea = 3216.988281
+988: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+989: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+990: It is Parallelepiped: length = 3, width = 2, height = 4. SurfaceArea = 24.000000
+991: It is Sphere: radius = 17. SurfaceArea = 3631.677979
+992: It is Parallelepiped: length = 8, width = 6, height = 3. SurfaceArea = 144.000000
+993: It is Tetrahedron: edge = 20. SurfaceArea = 692.799988
+994: It is Parallelepiped: length = 9, width = 9, height = 5. SurfaceArea = 405.000000
+995: It is Sphere: radius = 20. SurfaceArea = 5026.543945
+996: It is Tetrahedron: edge = 2. SurfaceArea = 6.928000
+997: It is Parallelepiped: length = 5, width = 12, height = 4. SurfaceArea = 240.000000
+998: It is Parallelepiped: length = 10, width = 10, height = 6. SurfaceArea = 600.000000
+999: It is Parallelepiped: length = 7, width = 8, height = 4. SurfaceArea = 224.000000
+Surface area sum = 700901.437500
+Empty container. 
+Container contains 0 elements.

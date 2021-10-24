@@ -1,0 +1,6 @@
+Filled container.
+Container contains 1 elements.
+0: It is Parallelepiped: length = 8, width = 4, height = 5. SurfaceArea = 160.000000
+Surface area sum = 160.000000
+Empty container. 
+Container contains 0 elements.
